@@ -1,0 +1,117 @@
+
+#text{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 150px;
+line-height: 242px;
+animation: fadeIn 5s;
+
+color: #FFFFFF;
+}
+@keyframes fadeIn{
+    0%{
+        opacity:0;
+    }
+    100%{
+        opacity:2;
+    }
+}
+#img1{
+position:absolute;
+width: 400px;
+height: 250px;
+left: 994px;
+top: 602px;
+background: url(images\pngegg 1.png);
+padding-bottom:40px;
+
+}
+.arrow{
+box-sizing: border-box;
+position: absolute;
+width: 89px;
+height: 0px;
+left: 864px;
+top: 750px;
+
+border: 3px solid #FFFFFF;
+border-radius: 180px;
+transform: rotate(90deg);
+
+}
+#aboutimg{
+ position: absolute;
+width: 572px;
+height: 726px;
+left: 89px;
+top: 1353px;
+background : url("images\pexels-hidden-couple-3048527 1.png");
+
+}
+.aboutus{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 121px;
+    
+    color: #000000;
+    padding-bottom:20px;
+
+}
+.A{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+
+}
+.B{
+    background-color: #FFFFFF;
+    height:1000px;
+    padding-top:80px;
+}
+#ourservices{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+
+color: #000000;
+
+}
+.scrolling-wrapper{
+    display:flex;
+    gap:30px;
+    align-items: flex-start;
+}
+then.card:hover{
+background-color:black;
+color:white;
+cursor:pointer;
+}
+}
+.D{
+     padding-left: 20;
+}
+.Con{
+    height:800pX;
+    background-color: #000000;
+}
+#Nill{
+    font-weight: 700;
+    font-size: 100px;
+    padding-top: 30px;
+    padding-bottom:30px;
+
+}
+
+
+
+
+
